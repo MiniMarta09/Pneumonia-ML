@@ -4,7 +4,7 @@ Binary classification (**NORMAL vs PNEUMONIA**) on pediatric chest X-ray images,
 
 Project developed for the **Machine Learning and Deep Learning** exam, A.Y. 2025/2026 — [Master's Degree in Computer Engineering - Artificial Intelligence & Human-Computer Interaction](https://corsi.unige.it/), University of Genoa (Università degli Studi di Genova).
 
-**Author:** Marta Nasso — Student ID 5462414
+**Author:** Marta Nasso
 
 ---
 
@@ -106,9 +106,6 @@ Pneumonia-ML/
 
 The full project presentation (clinical context, methodology, results and conclusions) is available in PDF and HTML format in the [`presentation/`](./presentation) folder.
 
-## 👩‍🎓 Author
+## 📜 License
 
-**Marta Nasso**
-Student ID 5462414
-Master's Degree in Computer Engineering - Artificial Intelligence & Human-Computer Interaction
-University of Genoa (Università degli Studi di Genova)
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
